@@ -1,4 +1,3 @@
-```markdown
 # 🧭 readme-art
 
 Sanatsal **README tasarımları** 🎨  
