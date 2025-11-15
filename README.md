@@ -1,18 +1,20 @@
-# 🧭 readme-art
+# 🌼 readme-art
 
-Sanatsal **README tasarımları** 🎨  
-Markdown, rozetler, emoji’ler ve banner örnekleri.
+Artistic **README designs** 🎨  
+Markdown, badges, emojis, and banner examples.
 
-![Markdown](https://img.shields.io/badge/style-markdown-blueviolet)
+`style` `markdown`
 
-### 💡 Fikirler
-- 🖼️ ASCII Art başlıklar  
-- 🏷️ Shields.io rozetleri  
-- 🧩 Emoji destekli liste tasarımları  
-- 📦 Özel quote blokları  
+---
 
-> “README, projenin vitrinidir.” 💬
+## 💡 Ideas
 
+- 🖼 **ASCII Art headers**
+- 🏷 **Shields.io badges**
+- ✨ **Emoji-enhanced list designs**
+- 💬 **Custom quote blocks**
+
+> “Your README is the showcase of your project.” 🌙
 
 ## 🌙✨ 1. Ultra Aesthetic Moonlight Banner
 ```txt
