@@ -3,7 +3,7 @@
 Artistic **README designs** 🎨  
 Markdown, badges, emojis, and banner examples.
 
-`style` `markdown`
+![Markdown](https://img.shields.io/badge/style-markdown-blueviolet)
 
 ---
 
